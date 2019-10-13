@@ -2,7 +2,7 @@
 title: "Author Bios"
 date: 2018-10-01T09:00:00-04:00
 draft: false
-categories: ["meta"]
+categories: ["features"]
 tags: ["options"]
 ---
 
@@ -20,9 +20,9 @@ A set of configuration options are used for displaying the biography.
   Avatar = "images/site-logo.svg"
   Biography = "A short description, a few sentences describing the author. Set
                the 'ShowBio' parameter to false to hide this."
-  ShowBio = true        
+  ShowBio = true
 
-[params.indieWeb]  
+[params.indieWeb]
     EmailAddress = "email.address@example.com"
     Country = "CountryName"
     City = "CityName"
@@ -46,12 +46,12 @@ The following classes are used to mark up the author bio for [IndieWeb][indieweb
 | :-------------- | :-------------------------- |
 | The author card | `h-card`                    |
 | Profile picture | `u-photo`                   |
-| Author URL*     | `p-name`, `u-url`, `rel=me` |
+| Author URL\*    | `p-name`, `u-url`, `rel=me` |
 | City            | `p-locality`                |
 | Country         | `p-country-name`            |
 | Email address   | `u-email`                   |
 | Biography       | `p-note`                    |
 
-*Author URL is set to the site's base URL.
+\*Author URL is set to the site's base URL.
 
 [indieweb]: https://indieweb.org

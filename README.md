@@ -67,7 +67,7 @@ There are two types of updates that are created; a _release_ update, and a _post
 
 ### Post updates
 
-Post updates are what most think of as a blog post; an update to the site that adds a post related to the theme, like an explanation of a new feature, the announcement of a new process, and so on. These are longer-form updates which should include appropriate tags and categories.
+Post updates are what most think of as a blog post; an update to the site that adds a post related to the theme, like an explanation of a new feature, the announcement of a new process, and so on. These are longer-form updates which should include appropriate tags per the content of the post. Currently, only two categories for post updates exist: `announcements` and `features`. The former is used to announce something about the theme; the latter is to provide details on a single feature.
 
 ### Release updates
 

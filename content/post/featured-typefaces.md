@@ -2,7 +2,7 @@
 title: "Featured Typefaces"
 date: 2018-10-01T08:30:00-04:00
 draft: false
-categories: ["meta"]
+categories: ["features"]
 tags: ["typography"]
 ---
 
@@ -19,6 +19,7 @@ Licenses are included in the theme’s `static/fonts` folder.
 Have a look at a couple of paragraphs of placeholder text using the wonderfully readable Charter:
 
 ---
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eleifend nulla ac elit venenatis posuere. Sed id aliquam arcu, et malesuada lectus. **Donec et dignissim massa. Pellentesque in laoreet nibh. Pellentesque sagittis, libero quis vestibulum aliquam, ante risus imperdiet magna, at ornare dolor libero quis nunc.** Donec quis tempus purus. Cras ornare magna ac facilisis tristique. Nulla aliquet purus quis massa rutrum interdum ac at magna. Cras fermentum magna id orci viverra facilisis. Ut vitae lobortis nisl.
 
 Sed interdum tincidunt venenatis. Sed hendrerit dictum nisi, at dignissim orci consectetur quis. Aenean sed nisl et nisl placerat euismod. Proin hendrerit nulla at rhoncus molestie. Cras eu gravida erat, vestibulum ornare diam. _Praesent nunc arcu, ultrices et risus sed, dictum mattis dui. Maecenas vitae nisl at massa porta pellentesque_. Donec eget urna eget nisl imperdiet scelerisque eget a mauris. Nam fringilla sem id vehicula rhoncus. Curabitur tincidunt massa mauris, facilisis placerat odio eleifend sit amet. Etiam nec vehicula sapien, at dignissim risus. Sed elit erat, lacinia eu vulputate at, semper eu nulla. Quisque a urna sed nulla viverra egestas nec quis nunc. Curabitur iaculis elit in orci sollicitudin suscipit.
