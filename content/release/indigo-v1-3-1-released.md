@@ -17,4 +17,4 @@ From the [changelog]:
 - Taxonomy-based lists (e.g., lists of tags or categories) now only show posts within the selected taxonomy.
 
 [v1.3.1]: https://github.com/AngeloStavrow/indigo/releases/tag/v1.3.1
-[changelog]: https://github.com/AngeloStavrow/indigo/blob/master/CHANGELOG.md#131
+[changelog]: https://github.com/AngeloStavrow/indigo/blob/master/CHANGELOG.md#131---2019-10-03

@@ -32,4 +32,4 @@ From the [changelog]:
 - GitHub issue and pull request templates removed from the repo.
 
 [v1.3.0]: https://github.com/AngeloStavrow/indigo/releases/tag/v1.3.0
-[changelog]: https://github.com/AngeloStavrow/indigo/blob/master/CHANGELOG.md#130
+[changelog]: https://github.com/AngeloStavrow/indigo/blob/master/CHANGELOG.md#130---2019-09-30

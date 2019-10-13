@@ -18,4 +18,4 @@ Read more about custom CSS support [here]. From the [changelog]:
 
 [v1.2.0]: https://github.com/AngeloStavrow/indigo/releases/tag/v1.2.0
 [here]: /post/custom-css-support/
-[changelog]: https://github.com/AngeloStavrow/indigo/blob/master/CHANGELOG.md#120
+[changelog]: https://github.com/AngeloStavrow/indigo/blob/master/CHANGELOG.md#120---2019-08-31
