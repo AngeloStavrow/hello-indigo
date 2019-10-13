@@ -73,8 +73,8 @@ Post updates are what most think of as a blog post; an update to the site that a
 
 Release updates are short updates that add information about a type of release:
 
-- **Hugo release updates** are added when a new version of Hugo is released. The goal of these updates is simply to notify readers that the demo site has been tested, built, and deployed against the latest version of Hugo. They are categorized as `updates` and tagged `hugo`.
-- **Indigo release updates** are added when a new version of Indigo is released. The goal of these updates is to let readers know what's changed in the new version, and to confirm that the demo site has been tested, built, and deployed against the latest version of Indigo. They are categorized as `updates` and tagged `indigo`.
+- **Hugo release updates** are added when a new version of Hugo is released. The goal of these updates is simply to notify readers that the demo site has been tested, built, and deployed against the latest version of Hugo. They are categorized as `releases` and tagged `hugo`.
+- **Indigo release updates** are added when a new version of Indigo is released. The goal of these updates is to let readers know what's changed in the new version, and to confirm that the demo site has been tested, built, and deployed against the latest version of Indigo. They are categorized as `releases` and tagged `indigo`.
 
 ## Deploying
 
