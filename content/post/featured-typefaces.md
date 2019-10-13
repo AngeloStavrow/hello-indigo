@@ -3,7 +3,7 @@ title: "Featured Typefaces"
 date: 2018-10-01T08:30:00-04:00
 draft: false
 categories: ["features"]
-tags: ["typography"]
+tags: ["typography", "styling"]
 ---
 
 Indigo uses a combination of three beautiful typefaces to render your words.
