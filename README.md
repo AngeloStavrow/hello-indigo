@@ -11,7 +11,7 @@ The source repository for building the **hello-indigo** [demo site]. The **hello
 
 ### Site source
 
-This repository contains all source files for building the **hello-indigo** site. 
+This repository contains all source files for building the **hello-indigo** site.
 
 ## Submodules
 
@@ -37,7 +37,10 @@ If you'd like to contribute a change, please keep reading.
 
 ### Pre-requisites
 
-The live site is always built against the latest version of Hugo, so please be sure to [upgrade] before continuing.
+The live site is always built against:
+
+- the latest stable release of Hugo; to upgrade Hugo, follow these [upgrade instructions].
+- the latest stable release of Indigo; this repository maintains a submodule pointing to the latest release.
 
 ### Getting the source code
 
@@ -60,27 +63,29 @@ You should then be able to visit http://localhost:1313 in your browser and see y
 
 ## Site update process
 
-### New Indigo release
+There are two types of updates that are created; a _release_ update, and a _post_ update.
 
-### New Hugo release
+### Post updates
 
-### Announcements
+Post updates are what most think of as a blog post; an update to the site that adds a post related to the theme, like an explanation of a new feature, the announcement of a new process, and so on. These are longer-form updates which should include appropriate tags and categories.
+
+### Release updates
+
+Release updates are short updates that add information about a type of release:
+
+- **Hugo release updates** are added when a new version of Hugo is released. The goal of these updates is simply to notify readers that the demo site has been tested, built, and deployed against the latest version of Hugo. They are categorized as `updates` and tagged `hugo`.
+- **Indigo release updates** are added when a new version of Indigo is released. The goal of these updates is to let readers know what's changed in the new version, and to confirm that the demo site has been tested, built, and deployed against the latest version of Indigo. They are categorized as `updates` and tagged `indigo`.
 
 ## Deploying
 
 ⚠️ Only members of the [**hello-indigo** project on Glitch](https://glitch.com/~hello-indigo) are able to deploy to the live site.
-
-
-
-
-
 
 <!-- links -->
 
 [demo site]: https://hello-indigo.glitch.me/
 [indigo]: https://github.com/AngeloStavrow/indigo/
 [hugo]: https://gohugo.io/
-[Glitch]: https://glitch.com/
+[glitch]: https://glitch.com/
 [theme issues]: https://github.com/AngeloStavrow/indigo/issues/
 [here]: https://github.com/AngeloStavrow/hello-indigo/issues/
-[ugprade]: https://gohugo.io/getting-started/installing/#upgrade-hugo
+[upgrade instructions]: https://gohugo.io/getting-started/installing/#upgrade-hugo
