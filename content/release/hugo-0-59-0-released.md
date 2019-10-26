@@ -13,5 +13,5 @@ tags: ["hugo"]
 Learn more about the theme support and maintenance process [here].
 
 [hugo-release]: https://gohugo.io/news/0.59.0-relnotes/
-[last-release]: release/indigo-v1-3-2-released/
+[last-release]: /release/indigo-v1-3-2-released/
 [here]: https://github.com/AngeloStavrow/indigo/blob/master/README.md#support-and-maintenance
