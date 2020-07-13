@@ -56,7 +56,6 @@ $ git submodule update
 Check that everything's working as expected by building the site and starting a local server:
 
 ```bash
-$ cd hello-indigo
 $ hugo server
 ```
 
