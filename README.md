@@ -48,6 +48,7 @@ You'll need to clone the source code as well as a few git submodules to your loc
 
 ```bash
 $ git clone https://github.com/AngeloStavrow/hello-indigo.git hello-indigo
+$ cd hello-indigo
 $ git submodule init
 $ git submodule update
 ```
